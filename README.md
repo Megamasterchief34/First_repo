@@ -3,3 +3,4 @@ text
 
 нОВЫЙ ТЕКСТ
 new
+repeat
