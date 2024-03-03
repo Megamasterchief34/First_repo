@@ -6,3 +6,5 @@ new
 repeat
 новая ветка
 resolve conflict
+
+conflict
