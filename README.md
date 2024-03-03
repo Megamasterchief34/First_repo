@@ -5,3 +5,4 @@ text
 new
 repeat
 новая ветка
+resolve conflict
